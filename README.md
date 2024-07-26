@@ -3,6 +3,8 @@
 This repository contains frontend code for a basic staking dapp. It contains the necessary code to get started with starknet integration and specifically Starknet Tokenbound (ERC6551) Integration. This is a boilerplate and does not imply completeness.
 You should extend on this to build you own design.
 
+- [Live Link](https://starknet-tokenbound-staking-ui.vercel.app/)
+
 This project uses `yarn` package manager.
 
 ## Technologies Used
