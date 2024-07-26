@@ -7,6 +7,8 @@ This project uses `yarn` package manager.
 
 ## Technologies Used
 
+- [starknet-react](https://starknet-react.com/docs/getting-started)
+- [starknet-tokenbound](https://tokenbound.gitbook.io/starknet-tokenbound)
 - [Next.js 14](https://nextjs.org/docs/getting-started)
 - [NextUI v2](https://nextui.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
